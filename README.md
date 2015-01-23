@@ -3,17 +3,27 @@ CAPTURE THE FLAG - MINI-GAME  v1.50
 =========================================
 What is new?
 =========================================
+- update code base to latest PocketMine API
 - code re-factoring and optimization
-- source code uploaded to github 
-- multi-lingual support
+- uploaded source code to github 
 - easy sign setup commands
-  
+- enable multi-lingual support
+ (note: need your help with text language translations) 
+     
 New Customization 
   - border fence
   - team own defence fence 
   - player kits 
   - arena building blocks for wall
   - arena building blocks for floor
+
+@TODO
+- Optimize arena rrendering time in Windows
+- Fix any bugs in v1.5 
+- update language translations
+- Prepare Design for Version 2.0 
+
+* Always welcome suggestions in improve game features and code optimizations
 
 Previous version fixes
 =========================
@@ -30,11 +40,9 @@ The enemy's flag will be on a fence post in or near their base.
 Break into the enemy's base and steal their flag. 
 
 Testing Status:  Verified 
--Minecraft Pocket Edition 0.10.0 
--PocketMine Server: Latest Alpha 1.4 Beta 7+ Build 
+-Minecraft Pocket Edition 0.10.x 
+-PocketMine Server: Latest Alpha 1.4 Stable + Beta Build 
 ===============================================================================================
-
-Project: MCG76 Minigame - Capture the Flag - Build #1
 
 Player Commands: 
 ----------------------------------------------------------------------------------------------
