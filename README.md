@@ -5,15 +5,15 @@ What is new?
 =========================================
 - code re-factoring and optimization
 - source code uploaded to github 
-
-Customization 
-  - multi-lingual support
+- multi-lingual support
+- easy sign setup commands
+  
+New Customization 
   - border fence
   - team own defence fence 
   - player kits 
   - arena building blocks for wall
   - arena building blocks for floor
-  - easy sign setup commands
 
 Previous version fixes
 =========================
