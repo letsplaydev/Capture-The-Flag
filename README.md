@@ -1,8 +1,9 @@
 
-Changes in version 1.5.0 
-=============
+CAPTURE THE FLAG - MINI-GAME  v1.50
 
-What is new in v1.5?
+Jan.22.2015 - Released
+=========================================
+What is new?
 =========================================
 - code re-factoring and optimization
 - source code uploaded to github 
