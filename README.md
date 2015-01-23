@@ -1,14 +1,9 @@
 
 Changes in version 1.5.0 
 =============
-fixes 
-=============
-- team member can not break own team flag
-- when a team member carry a enermy flag dead, enemy flag return to original location
-- game starts when only have members join
 
-new features
-=============
+What is new in v1.5?
+=========================================
 - code re-factoring and optimization
 - source code uploaded to github 
 
@@ -20,6 +15,12 @@ Customization
   - arena building blocks for wall
   - arena building blocks for floor
   - easy sign setup commands
+
+Previous version fixes
+=========================
+- team member can not break own team flag
+- when a team member carry a enermy flag dead, enemy flag return to original location
+- game starts when only have members join
    
 ===============================================================================================
 MCG76 Minigame "Capture The Flag" plugin for MCPE Server | PocketMine alpha 1.4x
